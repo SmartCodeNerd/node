@@ -1,5 +1,5 @@
 # Node.js
-Created by Gulshan Gupta
+Edited by Gulshan Gupta
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
 For information on using Node.js, see the [Node.js website][].
